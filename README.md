@@ -1,4 +1,4 @@
-# This is test yandex praktikum layout
+# This is test yandex practicum layout
 
 ## Technology stack:
 
